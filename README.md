@@ -31,7 +31,6 @@
 
 | 站点 | 简介 |
 | --- | --- |
-| [CheapGpt](https://www.linktre.cc/siteDetails/442) | 企业级AI模型Api |
 | [Sprunki Incredibox](https://www.linktre.cc/siteDetails/446) | 在线音乐小游戏 |
 | [Google Trends Quick Open](https://www.linktre.cc/siteDetails/447) | Google Trends工具 |
 | [原力推-内容付费平台](https://www.linktre.cc/siteDetails/448) | 为创作者带来更多收入 |
